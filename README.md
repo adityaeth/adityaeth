@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **adityaeth/adityaeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,4 +10,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with android development.
 - 💬 Ask me about whatever you wany
 - 📫 How to reach me: tg me @adityae
--->
+
