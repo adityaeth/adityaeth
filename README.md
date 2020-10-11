@@ -1,13 +1,5 @@
-### Hi there 👋
+### Hi there, BuGGy here 🙋
 
-**adityaeth/adityaeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://komarev.com/ghpvc/?username=adityaeth&style=flat-square" alt="adityaeth" /><br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on OAS.
-- 🌱 I’m currently learning java & shell scripting.
-- 👯 I’m looking to collaborate on android development.
-- 🤔 I’m looking for help with android development.
-- 💬 Ask me about whatever you wany
-- 📫 How to reach me: tg me @adityae
-
+[![Sonal's github stats](https://github-readme-stats.vercel.app/api?username=adityaeth)](https://github.com/adityaeth)
